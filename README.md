@@ -9,6 +9,10 @@
 The Task is to implement a website showcasing and notifying visitors about
 the next SpaceX rocket launch, and displaying details about next launches.
 
+## 🤖 Demo
+
+![](https://github.com/hellochirag/space-x/blob/main/demo/space-x.gif)
+
 
 ## ⚡ What is the use of this Repo
 
