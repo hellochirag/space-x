@@ -1,0 +1,24 @@
+.container
+{
+	max-width : 100%;
+}
+.background-purple
+{
+	min-height : 800px;
+	background: linear-gradient(95deg, rgba(177,96,134,1) 0%, rgba(63,20,86,1) 100%, rgba(63,20,86,1) 100%)
+}
+th 
+{
+ color: white;
+ border: none !important;
+}
+.table td
+{
+ color: white;
+ font-size: 10px;
+ padding: 5px;
+}
+.card {
+	background: none
+}
+
